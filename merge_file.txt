@@ -1,1 +1,1 @@
-branch2
+Merge file from branch1 to branch2
